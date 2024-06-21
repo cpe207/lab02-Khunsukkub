@@ -1,9 +1,20 @@
-h1 {
+
+body {
     text-align: center;
+}   
+
+h1 {
     font-style: italic;
+    color: aliceblue;
+    background-color: blue;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 div {
+    background-color: aliceblue;
     font-size: large;
-    text-align: center;
+    padding: 10px;
+
+}
+h3 {
+    font-family: "Anuphan" , sans-serif;
 }
